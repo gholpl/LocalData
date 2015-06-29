@@ -1,0 +1,4 @@
+F:\Visual Studio 2012\Projects\LocalData\LocalDataAdmin\bin\LocalDataAdmin.dll
+F:\Visual Studio 2012\Projects\LocalData\LocalDataAdmin\bin\LocalDataAdmin.pdb
+F:\Visual Studio 2012\Projects\LocalData\LocalDataAdmin\obj\Release\LocalDataAdmin.dll
+F:\Visual Studio 2012\Projects\LocalData\LocalDataAdmin\obj\Release\LocalDataAdmin.pdb

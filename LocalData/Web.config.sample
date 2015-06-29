@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <connectionStrings>
+    <add name="OLPL_prodConnectionString" connectionString="Data Source=Server;Initial Catalog=Database;User ID=User;Password=pass"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <system.web>
+    <compilation debug="true" targetFramework="4.0"/>
+    <httpRuntime/>
+    <pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID"/>
+  </system.web>
+</configuration>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\ws2\c$\inetpub\wwwroot\localdata</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/LocalData.dll">
+      <publishTime>05/07/2014 17:41:26</publishTime>
+    </File>
+    <File Include="CarManuals.aspx">
+      <publishTime>05/07/2014 17:41:22</publishTime>
+    </File>
+    <File Include="FakeBook.aspx">
+      <publishTime>04/19/2014 13:16:52</publishTime>
+    </File>
+    <File Include="Minutes.aspx">
+      <publishTime>04/21/2014 17:12:24</publishTime>
+    </File>
+    <File Include="Newspaper.aspx">
+      <publishTime>04/23/2014 11:29:14</publishTime>
+    </File>
+    <File Include="Obits.aspx">
+      <publishTime>04/19/2014 13:13:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/29/2014 10:02:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

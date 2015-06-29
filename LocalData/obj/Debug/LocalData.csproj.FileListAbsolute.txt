@@ -1,0 +1,6 @@
+F:\Visual Studio 2012\Projects\LocalData\LocalData\bin\LocalData.dll
+F:\Visual Studio 2012\Projects\LocalData\LocalData\bin\LocalData.pdb
+F:\Visual Studio 2012\Projects\LocalData\LocalData\obj\Debug\LocalData.dll
+F:\Visual Studio 2012\Projects\LocalData\LocalData\obj\Debug\LocalData.pdb
+F:\Visual Studio 2012\Projects\LocalData\LocalData\obj\Debug\LocalData.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2012\Projects\LocalData\LocalData\bin\LocalData.dll.config
